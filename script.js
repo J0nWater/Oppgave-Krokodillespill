@@ -38,10 +38,13 @@ function checkInput(){
         || number1 == number2 && userInput == '=')
         {
         points++
+        randomNumber()
         console.log("riktig")
     }
     else{
         points--
+        randomNumber()
+
         console.log("feil")
     }
     checkPoints()    
