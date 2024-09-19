@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+img {
+    height: 280px;
+}
+
+.gameStyle {
+    display: flex ;
+    flex-grow: ;
+    justify-content: center;
+    gap: 10px;
+}
+
+input {
+    width: 40px;
+    text-align: center;
+    font-size: 30px;
+}
+.endText {
+    color: crimson;
+}
+
